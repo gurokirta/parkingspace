@@ -5,5 +5,8 @@
   "scripts": {},
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
 }
